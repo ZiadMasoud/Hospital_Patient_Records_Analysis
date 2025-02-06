@@ -1,0 +1,11 @@
+PatientID,Name,Age,Gender,Diagnosis,Medication,AdmissionDate,DischargeDate,Doctor,Department,Status
+2001,John Doe,45,Male,Hypertension,Med A,2025-01-10,2025-01-15,Dr. Smith,Cardiology,Admitted
+2002,Jane Smith,forty-five,Female,Diabetes,Med B,10/01/2025,15/01/2025,Dr. Lee,Endocrinology,admitted
+2003,Bob Brown,55,Male,Asthma,Med C,"January 10, 2025","January 15, 2025",Dr. Carter,Pulmonology,Under Observation
+2004,,30,Female,Flu,Med D,2025-02-05,2025-02-10,,General Medicine,DISCHARGED
+2005,Tom Wilson,62,Male,Heart Disease,Med E,2025-03-01,2025-03-10,Dr. Johnson,Cardiology,Discharged
+2006,Susan Clark,49,Female,Kidney Disease,Med F,2025-04-12,2025-04-17,Dr. Patel,Nephrology,Admitted
+2007,David Jones,37,Male,Pneumonia,Med G,2025-05-20,2025-05-25,Dr. Martinez,Pulmonology,admitted
+2008,Nancy Miller,28,Female,Flu,Med D,2025-06-15,2025-06-20,Dr. Smith,General Medicine,Under Observation
+2009,Michael Scott,40,Male,Hypertension,Med A,2025-07-01,2025-07-07,Dr. Smith,Cardiology,Admitted
+2010,Pam Beesly,34,Female,Diabetes,Med B,2025-08-10,2025-08-15,Dr. Lee,Endocrinology,Discharged
